@@ -1,0 +1,18 @@
+{% extends "index.html" %}
+
+{% block content %}
+
+<h5 style="color:rgb(228, 237, 238);"class="title">Download your Result File</h5>
+<span style="color:rgb(228, 237, 238);"><small><strong>(Note: The Predicted Value is attached to the last column of your CSV file)</strong></small></span>
+    <br>
+    <div class="json-result">
+        <br>
+      <a class="btn btn-dark" href="return_file/">Download</a>
+    </div>
+    <span style="color:rgb(228, 237, 238);"><small>(The Column name is <b>"default_payment_next_month"</b>)</small></span>
+    <div class="container">
+        <span style="color:rgb(228, 237, 238);"><b>1</b>: Person will Default</span><br>
+        <span style="color:rgb(228, 237, 238);"><b>0</b>: Person will not Default</span>
+    </div>
+
+{% endblock content %}

@@ -1,0 +1,91 @@
+2021-08-23		09:45:50		Columns are ordered Succesfully
+2021-08-23		09:45:50		Entered the is_null_present method of the Preprocessor class
+2021-08-23		09:45:50		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-08-23		09:45:50		Entered the remove_columns method of the Preprocessor class
+2021-08-23		09:45:50		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-08-23		09:45:50		Entered the scale_numerical_columns method of the Preprocessor class
+2021-08-23		09:45:50		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-10-28		20:05:12		Columns are ordered Succesfully
+2021-10-28		20:05:12		Entered the is_null_present method of the Preprocessor class
+2021-10-28		20:05:12		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-10-28		20:05:12		Entered the remove_columns method of the Preprocessor class
+2021-10-28		20:05:12		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-10-28		20:05:12		Entered the scale_numerical_columns method of the Preprocessor class
+2021-10-28		20:05:12		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-10-28		20:05:37		Columns are ordered Succesfully
+2021-10-28		20:05:37		Entered the is_null_present method of the Preprocessor class
+2021-10-28		20:05:37		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-10-28		20:05:37		Entered the remove_columns method of the Preprocessor class
+2021-10-28		20:05:37		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-10-28		20:05:37		Entered the scale_numerical_columns method of the Preprocessor class
+2021-10-28		20:05:37		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-10-28		20:05:58		Columns are ordered Succesfully
+2021-10-28		20:05:58		Entered the is_null_present method of the Preprocessor class
+2021-10-28		20:05:58		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-10-28		20:05:58		Entered the remove_columns method of the Preprocessor class
+2021-10-28		20:05:58		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-10-28		20:05:58		Entered the scale_numerical_columns method of the Preprocessor class
+2021-10-28		20:05:58		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-10-28		21:39:44		Columns are ordered Succesfully
+2021-10-28		21:39:44		Entered the is_null_present method of the Preprocessor class
+2021-10-28		21:39:44		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-10-28		21:39:44		Entered the remove_columns method of the Preprocessor class
+2021-10-28		21:39:44		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-10-28		21:39:44		Entered the scale_numerical_columns method of the Preprocessor class
+2021-10-28		21:39:44		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-10-28		22:51:06		Columns are ordered Succesfully
+2021-10-28		22:51:06		Entered the is_null_present method of the Preprocessor class
+2021-10-28		22:51:06		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-10-28		22:51:06		Entered the remove_columns method of the Preprocessor class
+2021-10-28		22:51:06		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-10-28		22:51:06		Entered the scale_numerical_columns method of the Preprocessor class
+2021-10-28		22:51:06		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-10-28		23:55:33		Columns are ordered Succesfully
+2021-10-28		23:55:33		Entered the is_null_present method of the Preprocessor class
+2021-10-28		23:55:33		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-10-28		23:55:33		Entered the remove_columns method of the Preprocessor class
+2021-10-28		23:55:33		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-10-28		23:55:33		Entered the scale_numerical_columns method of the Preprocessor class
+2021-10-28		23:55:33		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-10-29		00:33:45		Columns are ordered Succesfully
+2021-10-29		00:33:45		Entered the is_null_present method of the Preprocessor class
+2021-10-29		00:33:45		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-10-29		00:33:45		Entered the remove_columns method of the Preprocessor class
+2021-10-29		00:33:45		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-10-29		00:33:45		Entered the scale_numerical_columns method of the Preprocessor class
+2021-10-29		00:33:45		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-10-29		00:50:27		Columns are ordered Succesfully
+2021-10-29		00:50:27		Entered the is_null_present method of the Preprocessor class
+2021-10-29		00:50:27		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-10-29		00:50:27		Entered the remove_columns method of the Preprocessor class
+2021-10-29		00:50:27		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-10-29		00:50:27		Entered the scale_numerical_columns method of the Preprocessor class
+2021-10-29		00:50:28		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-10-29		00:50:41		Columns are ordered Succesfully
+2021-10-29		00:50:41		Entered the is_null_present method of the Preprocessor class
+2021-10-29		00:50:41		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-10-29		00:50:41		Entered the remove_columns method of the Preprocessor class
+2021-10-29		00:50:41		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-10-29		00:50:41		Entered the scale_numerical_columns method of the Preprocessor class
+2021-10-29		00:50:41		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-10-29		00:53:51		Columns are ordered Succesfully
+2021-10-29		00:53:51		Entered the is_null_present method of the Preprocessor class
+2021-10-29		00:53:51		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-10-29		00:53:51		Entered the remove_columns method of the Preprocessor class
+2021-10-29		00:53:51		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-10-29		00:53:51		Entered the scale_numerical_columns method of the Preprocessor class
+2021-10-29		00:53:51		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-10-29		01:47:41		Columns are ordered Succesfully
+2021-10-29		01:47:41		Entered the is_null_present method of the Preprocessor class
+2021-10-29		01:47:41		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-10-29		01:47:41		Entered the remove_columns method of the Preprocessor class
+2021-10-29		01:47:41		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-10-29		01:47:41		Entered the scale_numerical_columns method of the Preprocessor class
+2021-10-29		01:47:41		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-10-29		02:54:14		Columns are ordered Succesfully
+2021-10-29		02:54:14		Entered the is_null_present method of the Preprocessor class
+2021-10-29		02:54:14		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-10-29		02:54:14		Entered the remove_columns method of the Preprocessor class
+2021-10-29		02:54:14		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-10-29		02:54:14		Entered the scale_numerical_columns method of the Preprocessor class
+2021-10-29		02:54:14		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class

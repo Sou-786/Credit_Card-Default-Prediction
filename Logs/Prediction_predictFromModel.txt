@@ -1,0 +1,26 @@
+2021-08-23		09:45:50		Start of Prediction
+2021-08-23		09:45:50		Got the validated CSV file!!
+2021-10-28		20:05:12		Start of Prediction
+2021-10-28		20:05:12		Got the validated CSV file!!
+2021-10-28		20:05:37		Start of Prediction
+2021-10-28		20:05:37		Got the validated CSV file!!
+2021-10-28		20:05:58		Start of Prediction
+2021-10-28		20:05:58		Got the validated CSV file!!
+2021-10-28		21:39:44		Start of Prediction
+2021-10-28		21:39:44		Got the validated CSV file!!
+2021-10-28		22:51:06		Start of Prediction
+2021-10-28		22:51:06		Got the validated CSV file!!
+2021-10-28		23:55:33		Start of Prediction
+2021-10-28		23:55:33		Got the validated CSV file!!
+2021-10-29		00:33:45		Start of Prediction
+2021-10-29		00:33:45		Got the validated CSV file!!
+2021-10-29		00:50:27		Start of Prediction
+2021-10-29		00:50:27		Got the validated CSV file!!
+2021-10-29		00:50:41		Start of Prediction
+2021-10-29		00:50:41		Got the validated CSV file!!
+2021-10-29		00:53:51		Start of Prediction
+2021-10-29		00:53:51		Got the validated CSV file!!
+2021-10-29		01:47:41		Start of Prediction
+2021-10-29		01:47:41		Got the validated CSV file!!
+2021-10-29		02:54:14		Start of Prediction
+2021-10-29		02:54:14		Got the validated CSV file!!
