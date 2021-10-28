@@ -2,7 +2,7 @@
 # Credit Card Defaulters Prediction
 
 
-https://user-images.githubusercontent.com/71257512/130733131-7613840b-3062-4399-b8f0-0f4e2368b050.mp4
+https://www.linkedin.com/posts/soumit-kar-mba-6b69a8121_banking-ineuron-machinelearning-activity-6859610613241524225-x8pe
 
 ### 🔗Description:
 - The repository represents "Credit Card Defaulters Prediction".
@@ -25,17 +25,13 @@ https://user-images.githubusercontent.com/71257512/130733131-7613840b-3062-4399-
 - sklearn==0.0
 - xgboost==1.4.2
 
-### This project is also Deployed on heroku: https://credit-card-defaulters-online.herokuapp.com/
-### ⚒Project Architecture:
-![architecture](https://user-images.githubusercontent.com/71257512/130731860-f8b5b1c1-5bc1-4a0d-9ad6-307522a5c722.png)
+
 
 ### ⚙Setup:
-- Install the packages mentioned in [requirements.txt](https://github.com/sudharsanbaskars/CreditCardDefaultersPrediction/blob/main/requirements.txt).
-- Run the [training.py](https://github.com/sudharsanbaskars/CreditCardDefaultersPrediction/blob/main/training.py) file for training.
-- Run the [app.py](https://github.com/sudharsanbaskars/CreditCardDefaultersPrediction/blob/main/app.py) file for running the Flask app in your local system.
+- Install the packages mentioned in [requirements.txt](https://github.com/Sou-786/Credit_Card-Default-Prediction/blob/master/requirements.txt).
+- Run the [training.py](https://github.com/Sou-786/Credit_Card-Default-Prediction/blob/master/training.py) file for training.
 
 ### Please Go through this [Document](https://docs.google.com/document/d/1FUak7BSp467CnqKWBxS8ZbsCquiqKriw/edit?usp=sharing&ouid=104052966349863954359&rtpof=true&sd=true) for more Info.
 
 ### Contributors:
-- [Sudharsan B](https://www.linkedin.com/in/sudharsan-b-9447a51ab/)
-- [Balaji K](https://www.linkedin.com/in/balaji-k-3127a01ab/)
+- [Soumit Kar](https://www.linkedin.com/in/soumit-kar-mba-6b69a8121/)
