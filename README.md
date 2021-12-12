@@ -9,6 +9,14 @@ https://www.linkedin.com/posts/soumit-kar-mba-6b69a8121_banking-ineuron-machinel
 - With the help of this project, we can able to predict the probability of credit default based on credit card owner's characteristics and payment history.
 - This Project is implemented using the Machine Learning Algorithm XGBoost.
 
+## Demo
+
+
+
+
+https://user-images.githubusercontent.com/63981549/145726869-f20e20b0-3e65-4168-9ab5-a88762fb3190.mp4
+
+
 
 ### 📖Dataset:
 - Download the dataset for custom training.
